@@ -1,8 +1,7 @@
-# tokalathakimou
+# tokalathaki mou: Mobile App Conceptualization and Marketing
 
 University project for the course of [Technological Innovation and Entrepreneurship.](https://www.dept.aueb.gr/el/cs/courses/3584). 
  
-# Project Overview: Mobile App Conceptualization and Marketing
 
 ## Description
 Collaborative effort by a team of 5 individuals with distinct responsibilities to conceptualize and market a mobile app. Our focus was on the development of innovative app features, particularly those streamlining online delivery and collaboration with a variety of stores.
