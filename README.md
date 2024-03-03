@@ -13,10 +13,7 @@ Collaborative effort by a team of 5 computer science students with distinct resp
 ## Methodology
 - **Iterative Process:** Engaged in an iterative development process where the professor provided feedback between deliverables, refining our approach.
 - **Responsibilities:** Each team member had specific responsibilities, emphasizing market analysis, creative design, and entrepreneurial skills. The iterative nature allowed us to adapt and improve based on feedback.
-
-## Feedback and Refinement
-- **Feedback Loop:** The project incorporated a feedback loop facilitated by the professor, ensuring continuous improvement.
 - **Enhanced Skills:** Through this process, we honed not only our technical skills but also our entrepreneurial mindset, ensuring a well-rounded approach to app development and marketing.
 
 ## Conclusion
-This collaborative project showcased our ability to work in a team, utilize entrepreneurial skills, and adapt to an iterative development process. The combination of coding, mockup design, and continuous improvement through feedback resulted in a comprehensive approach to mobile app conceptualization and marketing. 
+This collaborative project showcased our ability to work in a team, utilize entrepreneurial skills, and adapt to an iterative development process.
