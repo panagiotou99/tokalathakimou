@@ -1,4 +1,4 @@
-# tokalathakimou ("my shopping cart"): A Project on Mobile App Conceptualization and Marketing
+# tokalathakimou ("my shopping cart"): Mobile App Conceptualization and Marketing
 
 University project for the course "[Technological Innovation and Entrepreneurship.](https://www.dept.aueb.gr/el/cs/courses/3584)".
  
