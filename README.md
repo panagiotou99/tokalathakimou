@@ -5,8 +5,7 @@ University project for the course "[Technological Innovation and Entrepreneurshi
 ![image](https://github.com/panagiotou99/tokalathakimou/assets/53258725/588dc444-e37f-4a55-9fc4-d153b4688cc9)
 
 ## Description
-Collaborative effort by a team of 5 computer science students with distinct responsibilities to conceptualize and market a mobile app. Our focus was on the development of innovative app features, particularly those streamlining online delivery and collaboration with a variety of stores.
-
+Collaborative effort by a team of 5 computer science students with distinct responsibilities to conceptualize and market a mobile app. Our focus was on conducting research, sending out questionnaires, understanding the needs of users, and brainstorming features that have not been introduced yet. Particularly, we aimed at streamlining new ways of online delivery and enhancing collaboration with a variety of stores.
 ## Achievements
 - **Mockup Design:** Personally crafted engaging and user-friendly mockups to visualize the app's interface and functionality.
 - **Landing Page Development:** Successfully coded a landing page to enhance our online presence and provide a preview of the app's features.
