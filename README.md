@@ -1,4 +1,4 @@
-# tokalathaki mou: Mobile App Conceptualization and Marketing
+# tokalathaki mou ("my shopping cart"): A Project on Mobile App Conceptualization and Marketing
 
 University project for the course of [Technological Innovation and Entrepreneurship.](https://www.dept.aueb.gr/el/cs/courses/3584). 
  
