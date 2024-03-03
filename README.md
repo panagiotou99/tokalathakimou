@@ -2,7 +2,7 @@
 
 University project for the course of [Technological Innovation and Entrepreneurship.](https://www.dept.aueb.gr/el/cs/courses/3584). 
  
-![image](https://github.com/panagiotou99/tokalathakimou/assets/53258725/f34eea80-6752-4eed-9a3e-ad3190c49a94)
+![image](https://github.com/panagiotou99/tokalathakimou/assets/53258725/588dc444-e37f-4a55-9fc4-d153b4688cc9)
 
 ## Description
 Collaborative effort by a team of 5 individuals with distinct responsibilities to conceptualize and market a mobile app. Our focus was on the development of innovative app features, particularly those streamlining online delivery and collaboration with a variety of stores.
